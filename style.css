@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto';
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    height: 70px;
+    align-items: center;
+}
+
+.logo{
+    font-weight: 900;
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.right-links{
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+    padding:0%;
+    margin: 0px;
+    gap: 16px;
+}
