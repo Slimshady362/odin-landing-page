@@ -177,5 +177,12 @@ ul {
 }
 
 .footer{
-    
+    display: flex;
+    background-color: #1f2937;
+    color: #f9f8fa;
+    height: 70px;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+
 }
