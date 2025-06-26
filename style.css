@@ -125,6 +125,23 @@ ul {
     color: #4b5563;
     font-size: 18px;
 }
+
+.quote{
+    font-style: italic;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    width: 800px;
+    margin-top: 200px;
+}
+
+.quoter{
+    color:  #1f2937;
+    font-weight: 900;
+    font-style: normal;
+    font-size: large;
+    text-align: end;
+}
 .footer{
     
 }
